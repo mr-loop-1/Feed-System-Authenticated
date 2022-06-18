@@ -2,7 +2,7 @@
 An assigned project that would utilize FastApi and Socket.io
 
 ## Task List
-- [ ] Create Simple Api (just the skeleton)
+- [x] Create Simple Api (just the skeleton)
 - [ ] Add manual authentication
 - [ ] Include OAuth2
 - [ ] Broadcast with websockets (questionable)
